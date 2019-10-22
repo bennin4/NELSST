@@ -14,7 +14,7 @@ nav .brand-logo {
   color: #444;
 }
 nav .brand-logo {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Gloria Hallelujah', cursive;
 }
 nav .nav-wrapper {
     padding: 0 50px;
@@ -24,10 +24,10 @@ p {
 }
 
 .button-collapse {
-  color: red;
+  color: #DAA520;
 }
 .sidenav-trigger {
-  color: red;
+  color: #DAA520;
 }
 
 .parallax-container {
