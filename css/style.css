@@ -7,14 +7,19 @@
  */
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Optima', Linotype;
 }
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  padding: 10px 0px;
+  image-resolution: from-image;
+
 }
-nav .brand-logo {
+nav .name-logo {
   font-family: 'Gloria Hallelujah', cursive;
+  padding: 10px 60px;
+  color: #444;
+  font-size: 30px;
 }
 nav .nav-wrapper {
     padding: 0 50px;
