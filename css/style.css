@@ -11,8 +11,9 @@ body {
 }
 nav ul a,
 nav .brand-logo {
-  padding: 10px 0px;
+  padding: 10px 10px;
   image-resolution: from-image;
+  color: #444;
 
 }
 nav .name-logo {
