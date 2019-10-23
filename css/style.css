@@ -54,6 +54,7 @@ p {
 .header-subtitles {
   margin-top: 10%;
   font-size: 1,3em;
+  color: #DAA520;
 }
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
