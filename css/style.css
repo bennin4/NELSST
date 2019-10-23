@@ -72,7 +72,7 @@ p {
       padding: 0 10px;
   }
 }
-.col-servizio{
+.col-considerazioni{
   margin-top: 60px;
   margin bottom: 100px;
 }
@@ -83,7 +83,7 @@ p {
 .icon-block .material-icons {
   font-size: inherit;
 }
-#servizio h5 {
+#considerazioni h5 {
   font-size: 1.3em;
   line-height: 1.6;
 }
