@@ -65,6 +65,10 @@ p {
 }
 
 @media only screen and (max-width : 600px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
   #index-banner .section {
     top: 0;
   }
@@ -72,6 +76,7 @@ p {
       padding: 0 10px;
   }
 }
+
 .col-considerazioni{
   margin-top: 60px;
   margin bottom: 100px;
